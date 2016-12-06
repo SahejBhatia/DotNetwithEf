@@ -1,0 +1,87 @@
+﻿@model ZenithDataLib.Event
+
+@{
+    ViewBag.Title = "Create";
+}
+<h3>Welcome: @ViewBag.user  </h3>
+
+<h2>Create Event</h2>
+
+
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group ">
+            @Html.LabelFor(model => model.EventFromDateaAndTime, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10 glyphicon-calendar">
+                @Html.EditorFor(model => model.EventFromDateaAndTime, new { htmlAttributes = new { @class = "form-control date-picker" , @type = "datetime-local" } })
+                @Html.ValidationMessageFor(model => model.EventFromDateaAndTime, "", new { @class = "text-danger" })
+               
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.EventToDateAndTime, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10 glyphicon-calendar datepicker-inline">
+                @Html.EditorFor(model => model.EventToDateAndTime, new { htmlAttributes = new { @class = "form-control date-picker", type = "datetime-local" } })
+                @Html.ValidationMessageFor(model => model.EventToDateAndTime, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.EnteredByUserName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10" >
+                
+                @Html.EditorFor(model => model.EnteredByUserName, new { htmlAttributes = new { @class = "form-control", @placeholder = ViewBag.user, @readonly = "readonly" } })
+                @Html.ValidationMessageFor(model => model.EnteredByUserName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.activity, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.activity, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.activity, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CreationDate, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.CreationDate, new { htmlAttributes = new { @class = "form-control" , @Value = ViewBag.date } })
+                @Html.ValidationMessageFor(model => model.CreationDate, "", new { @class = "text-danger", })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.IsActive, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.IsActive)
+                    @Html.ValidationMessageFor(model => model.IsActive, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

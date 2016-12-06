@@ -1,0 +1,59 @@
+﻿@model IEnumerable<ZenithDataLib.Event>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+@if (Request.IsAuthenticated)
+{
+    if (User.IsInRole("Administrator"))
+    {
+        <h3>Welcome Admin:  @ViewBag.user </h3>
+
+    }
+    else
+    {
+        <h3>Welcome Guest: @ViewBag.user </h3>
+    }
+
+}
+ 
+
+
+
+<h4>You are viewing Current Events</h4>
+
+
+<table class="table">
+
+
+    @foreach (var item in Model)
+    {
+        <tr >
+            <th colspan="3">
+                @Html.DisplayFor(modelItems => item.EventFromDateaAndTime.DayOfWeek) @Html.DisplayFor(modelItem => item.EventFromDateaAndTime)  
+            </th>
+        </tr>
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.EventFromDateaAndTime.Hour): @Html.DisplayFor(modelItem => item.EventFromDateaAndTime.Minute)- @Html.DisplayFor(modelItem => item.EventToDateAndTime.Hour): @Html.DisplayFor(modelItem => item.EventToDateAndTime.Minute)
+            </td>          
+          
+            <td>
+                @Html.DisplayFor(modelItem => item.activity)
+            </td>
+               @if (Request.IsAuthenticated)
+               {
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.EventId }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.EventId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.EventId })
+                </td>
+               }
+           
+        </tr>
+    }
+
+
+</table>

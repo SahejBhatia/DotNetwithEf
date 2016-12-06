@@ -1,0 +1,11 @@
+﻿Enable-Migrations -ContextTypeName EventContext -MigrationsDirectory Migrations\Events
+
+Enable-Migrations -ContextTypeName ApplicationDbContext -MigrationsDirectory Migrations\Identity
+
+add-migration -ConfigurationTypeName zenithsociety.Migrations.Events.Configuration "ZenithModel"
+
+add-migration -ConfigurationTypeName zenithsociety.Migrations.Identity.Configuration "IdentityModel"
+
+update-database -ConfigurationTypeName zenithsociety.Migrations.Events.Configuration
+
+update-database -ConfigurationTypeName zenithsociety.Migrations.Identity.Configuration

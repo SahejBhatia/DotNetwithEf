@@ -1,0 +1,59 @@
+c:\users\a00766737\documents\visual studio 2015\Projects\zenithsociety\ZenithDataLib\bin\Debug\ZenithDataLib.dll
+c:\users\a00766737\documents\visual studio 2015\Projects\zenithsociety\ZenithDataLib\bin\Debug\ZenithDataLib.pdb
+c:\users\a00766737\documents\visual studio 2015\Projects\zenithsociety\ZenithDataLib\obj\Debug\ZenithDataLib.dll
+c:\users\a00766737\documents\visual studio 2015\Projects\zenithsociety\ZenithDataLib\obj\Debug\ZenithDataLib.pdb
+c:\users\a00766737\documents\visual studio 2015\Projects\zenithsociety\ZenithDataLib\obj\Debug\ZenithDataLib.csprojResolveAssemblyReference.cache
+C:\Users\a00766737\Desktop\new version\zenithsociety\ZenithDataLib\obj\Debug\ZenithDataLib.csprojResolveAssemblyReference.cache
+C:\Users\a00766737\Desktop\new version\zenithsociety\ZenithDataLib\obj\Debug\ZenithDataLib.dll
+C:\Users\a00766737\Desktop\new version\zenithsociety\ZenithDataLib\obj\Debug\ZenithDataLib.pdb
+C:\Users\a00766737\Desktop\new version\zenithsociety\ZenithDataLib\bin\Debug\ZenithDataLib.dll.config
+C:\Users\a00766737\Desktop\new version\zenithsociety\ZenithDataLib\bin\Debug\ZenithDataLib.dll
+C:\Users\a00766737\Desktop\new version\zenithsociety\ZenithDataLib\bin\Debug\ZenithDataLib.pdb
+C:\Users\a00766737\Desktop\new version\zenithsociety\ZenithDataLib\bin\Debug\EntityFramework.dll
+C:\Users\a00766737\Desktop\new version\zenithsociety\ZenithDataLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\a00766737\Desktop\new version\zenithsociety\ZenithDataLib\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\a00766737\Desktop\new version\zenithsociety\ZenithDataLib\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\a00766737\Desktop\new version\zenithsociety\ZenithDataLib\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\a00766737\Desktop\new version\zenithsociety\ZenithDataLib\bin\Debug\Microsoft.Owin.dll
+C:\Users\a00766737\Desktop\new version\zenithsociety\ZenithDataLib\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\a00766737\Desktop\new version\zenithsociety\ZenithDataLib\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\a00766737\Desktop\new version\zenithsociety\ZenithDataLib\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\a00766737\Desktop\new version\zenithsociety\ZenithDataLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a00766737\Desktop\new version\zenithsociety\ZenithDataLib\bin\Debug\Owin.dll
+C:\Users\a00766737\Desktop\new version\zenithsociety\ZenithDataLib\bin\Debug\EntityFramework.xml
+C:\Users\a00766737\Desktop\new version\zenithsociety\ZenithDataLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\a00766737\Desktop\new version\zenithsociety\ZenithDataLib\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\a00766737\Desktop\new version\zenithsociety\ZenithDataLib\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\a00766737\Desktop\new version\zenithsociety\ZenithDataLib\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\a00766737\Desktop\new version\zenithsociety\ZenithDataLib\bin\Debug\Microsoft.Owin.xml
+C:\Users\a00766737\Desktop\new version\zenithsociety\ZenithDataLib\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\a00766737\Desktop\new version\zenithsociety\ZenithDataLib\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\a00766737\Desktop\new version\zenithsociety\ZenithDataLib\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\a00766737\Desktop\new version\zenithsociety\ZenithDataLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sehaj\Desktop\BCIT\2016\fall 2016\COMP 3973\assignment1\Bhatiasahej\zenithsociety\ZenithDataLib\bin\Debug\ZenithDataLib.dll.config
+C:\Users\sehaj\Desktop\BCIT\2016\fall 2016\COMP 3973\assignment1\Bhatiasahej\zenithsociety\ZenithDataLib\bin\Debug\ZenithDataLib.dll
+C:\Users\sehaj\Desktop\BCIT\2016\fall 2016\COMP 3973\assignment1\Bhatiasahej\zenithsociety\ZenithDataLib\bin\Debug\ZenithDataLib.pdb
+C:\Users\sehaj\Desktop\BCIT\2016\fall 2016\COMP 3973\assignment1\Bhatiasahej\zenithsociety\ZenithDataLib\bin\Debug\EntityFramework.dll
+C:\Users\sehaj\Desktop\BCIT\2016\fall 2016\COMP 3973\assignment1\Bhatiasahej\zenithsociety\ZenithDataLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sehaj\Desktop\BCIT\2016\fall 2016\COMP 3973\assignment1\Bhatiasahej\zenithsociety\ZenithDataLib\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sehaj\Desktop\BCIT\2016\fall 2016\COMP 3973\assignment1\Bhatiasahej\zenithsociety\ZenithDataLib\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sehaj\Desktop\BCIT\2016\fall 2016\COMP 3973\assignment1\Bhatiasahej\zenithsociety\ZenithDataLib\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sehaj\Desktop\BCIT\2016\fall 2016\COMP 3973\assignment1\Bhatiasahej\zenithsociety\ZenithDataLib\bin\Debug\Microsoft.Owin.dll
+C:\Users\sehaj\Desktop\BCIT\2016\fall 2016\COMP 3973\assignment1\Bhatiasahej\zenithsociety\ZenithDataLib\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sehaj\Desktop\BCIT\2016\fall 2016\COMP 3973\assignment1\Bhatiasahej\zenithsociety\ZenithDataLib\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\sehaj\Desktop\BCIT\2016\fall 2016\COMP 3973\assignment1\Bhatiasahej\zenithsociety\ZenithDataLib\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sehaj\Desktop\BCIT\2016\fall 2016\COMP 3973\assignment1\Bhatiasahej\zenithsociety\ZenithDataLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sehaj\Desktop\BCIT\2016\fall 2016\COMP 3973\assignment1\Bhatiasahej\zenithsociety\ZenithDataLib\bin\Debug\Owin.dll
+C:\Users\sehaj\Desktop\BCIT\2016\fall 2016\COMP 3973\assignment1\Bhatiasahej\zenithsociety\ZenithDataLib\bin\Debug\EntityFramework.xml
+C:\Users\sehaj\Desktop\BCIT\2016\fall 2016\COMP 3973\assignment1\Bhatiasahej\zenithsociety\ZenithDataLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sehaj\Desktop\BCIT\2016\fall 2016\COMP 3973\assignment1\Bhatiasahej\zenithsociety\ZenithDataLib\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sehaj\Desktop\BCIT\2016\fall 2016\COMP 3973\assignment1\Bhatiasahej\zenithsociety\ZenithDataLib\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sehaj\Desktop\BCIT\2016\fall 2016\COMP 3973\assignment1\Bhatiasahej\zenithsociety\ZenithDataLib\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sehaj\Desktop\BCIT\2016\fall 2016\COMP 3973\assignment1\Bhatiasahej\zenithsociety\ZenithDataLib\bin\Debug\Microsoft.Owin.xml
+C:\Users\sehaj\Desktop\BCIT\2016\fall 2016\COMP 3973\assignment1\Bhatiasahej\zenithsociety\ZenithDataLib\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\sehaj\Desktop\BCIT\2016\fall 2016\COMP 3973\assignment1\Bhatiasahej\zenithsociety\ZenithDataLib\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sehaj\Desktop\BCIT\2016\fall 2016\COMP 3973\assignment1\Bhatiasahej\zenithsociety\ZenithDataLib\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sehaj\Desktop\BCIT\2016\fall 2016\COMP 3973\assignment1\Bhatiasahej\zenithsociety\ZenithDataLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sehaj\Desktop\BCIT\2016\fall 2016\COMP 3973\assignment1\Bhatiasahej\zenithsociety\ZenithDataLib\obj\Debug\ZenithDataLib.csprojResolveAssemblyReference.cache
+C:\Users\sehaj\Desktop\BCIT\2016\fall 2016\COMP 3973\assignment1\Bhatiasahej\zenithsociety\ZenithDataLib\obj\Debug\ZenithDataLib.dll
+C:\Users\sehaj\Desktop\BCIT\2016\fall 2016\COMP 3973\assignment1\Bhatiasahej\zenithsociety\ZenithDataLib\obj\Debug\ZenithDataLib.pdb
